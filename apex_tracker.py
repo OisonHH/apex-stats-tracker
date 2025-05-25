@@ -8,7 +8,7 @@ def get_apex_stats(username):
     headers = {
         "TRN-Api-Key": API_KEY,
         "Accept": "application/json",
-        "User-Agent": "Mozilla/5.0"  # Ibland krävs denna
+        "User-Agent": "Mozilla/5.0"  
     }
     response = requests.get(url, headers=headers)
     print("Statuskod:", response.status_code)
