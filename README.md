@@ -13,4 +13,4 @@ The app uses the Tracker Network API with a valid API key.
 
 ## Contact
 
-Created by Oison - oisoner321321@gmail.com
+Created by Oison - oison132@gmail.com
